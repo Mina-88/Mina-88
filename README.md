@@ -22,11 +22,6 @@ Workshops
 - [No Show Appointments - Data Analysis Project](https://github.com/Mina-88/NoShowAppointments_DataAnalysisProject)
 - [PacMan game](https://github.com/Mina-88/PacMan--PacPerson--)
 
-<!-- - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees -->
-
 
 ### Certifications 📜
 #### DS/ML/DL
@@ -45,5 +40,5 @@ More certifications on my [LinkedIn](https://www.linkedin.com/in/minawmikhael/).
 
 
 
-- 📫 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Mina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minawmikhael/)](https://www.linkedin.com/in/minawmikhael/)
+#### 📫 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Mina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minawmikhael/)](https://www.linkedin.com/in/minawmikhael/)
 
