@@ -18,9 +18,10 @@ Workshops
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-88&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)-->
 
 ### Projects 💻
-- [Emotion detection using ResNets](https://github.com/Mina-88/Emotion_Detection_using_ResNets)
-- [No Show Appointments - Data Analysis Project](https://github.com/Mina-88/NoShowAppointments_DataAnalysisProject)
-- [PacMan game](https://github.com/Mina-88/PacMan--PacPerson--)
+- [Emotion detection using ResNets](https://github.com/Mina-88/Emotion_Detection_using_ResNets) - individual
+- [No Show Appointments - Data Analysis Project](https://github.com/Mina-88/NoShowAppointments_DataAnalysisProject) - individual
+- [PacMan game](https://github.com/Mina-88/PacMan--PacPerson--) - individual
+- [CRM for hospitals](https://github.com/Youssef-Agiza/Doctory) - Was a part of a group in which I was responsible for creating some APIs  using node.js and the conceptual design
 
 
 ### Certifications 📜
