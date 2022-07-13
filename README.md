@@ -19,6 +19,7 @@ Workshops
 
 ### Projects 💻
 - [Emotion detection using ResNets](https://github.com/Mina-88/Emotion_Detection_using_ResNets)
+- [No Show Appointments - Data Analysis Project](https://github.com/Mina-88/NoShowAppointments_DataAnalysisProject)
 - [PacMan game](https://github.com/Mina-88/PacMan--PacPerson--)
 
 <!-- - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
