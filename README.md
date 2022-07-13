@@ -40,9 +40,7 @@ https://www.coursera.org/account/accomplishments/certificate/Y2B5PGU3MNZ3) @ Cou
 More certifications on my [LinkedIn](https://www.linkedin.com/in/minawmikhael/).
 
 ### Workshops (as an instructor) 📈
-
-
-
+- [GDSC_AUC_TensorFlow](https://github.com/Mina-88/GDSCAUC_TensorFlow)
 
 
 
