@@ -12,8 +12,8 @@ Workshops
 
 #### 🌱 I’m currently interested in 
 - Deep learning (NLP and Computer Vision)
+- Data engineering
 - Problem solving
-- Blockchain
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-88&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)-->
 
